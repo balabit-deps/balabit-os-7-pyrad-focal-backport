@@ -1,3 +1,9 @@
+pyrad-focal-backport (2.1-2bb2) focal; urgency=medium
+
+  * Fix package name in rules file -- fixing actual contents of the package.
+
+ -- Balabit Platform Team <devnull@dev.null>  Wed, 20 Jan 2021 20:14:12 +0100
+
 pyrad-focal-backport (2.1-2bb1) focal; urgency=medium
 
   * Renamed package as per https://wiki.labs.quest.com/display/B/How+to+import+custom+Ubuntu+package
