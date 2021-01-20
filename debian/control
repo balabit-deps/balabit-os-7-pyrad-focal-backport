@@ -1,4 +1,4 @@
-Source: pyrad
+Source: pyrad-focal-backport
 Section: python
 Priority: optional
 Maintainer: Jeremy Lainé <jeremy.laine@m4x.org>
@@ -12,7 +12,7 @@ Homepage: https://pypi.python.org/pypi/pyrad
 Vcs-Git: https://salsa.debian.org/python-team/modules/pyrad.git
 Vcs-Browser: https://salsa.debian.org/python-team/modules/pyrad
 
-Package: python3-pyrad
+Package: python3-pyrad-focal-backport
 Architecture: all
 Depends: ${misc:Depends}, ${python3:Depends}
 Description: Python module for creating and decoding RADIUS packets (Python 3)
